@@ -70,6 +70,18 @@ Chức năng của hệ thống:
 ---
 
 ## ⚖️ Sơ đồ thuật toán (Activity Diagram)
+*Tìm kiếm gần đúng tên sản phẩm
+[Start]
+   ↓
+[Người dùng nhập từ khóa tìm kiếm]
+   ↓
+[Sử dụng thuật toán tìm kiếm gần đúng (fuzzy search)]
+   ↓
+[Truy vấn sản phẩm có tên gần giống từ khóa]
+   ↓
+[Hiển thị kết quả phù hợp]
+   ↓
+[End]
 
 ### 1. Hiển thị đơn hàng theo khách hàng
 
