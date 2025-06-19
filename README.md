@@ -99,9 +99,19 @@ Chức năng của hệ thống:
 ## 📷 Ảnh màn hình giao diện
 
 * Giao diện trang chủ, đăng nhập
+* ![image](https://github.com/user-attachments/assets/ded61f34-236b-4476-a6c2-0e33f7bf7429)
+
 * Danh sách sản phẩm
+* ![image](https://github.com/user-attachments/assets/8b55e729-2c2b-4802-898d-df5395c70a1f)
+
 * Đặt hàng
+* ![image](https://github.com/user-attachments/assets/ec871aa9-159d-4c4c-a0cf-cf6d49bb9ec1)
+
 * Trang quản lý admin
+* ![image](https://github.com/user-attachments/assets/3066dd28-de5d-4a35-a911-a924efd9d61e)
+* ![image](https://github.com/user-attachments/assets/72c13138-24dc-446d-bd1e-91cafefeb280)
+
+
 
 ---
 
