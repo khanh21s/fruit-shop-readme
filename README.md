@@ -70,18 +70,16 @@ Chức năng của hệ thống:
 ---
 
 ## ⚖️ Sơ đồ thuật toán (Activity Diagram)
-*Tìm kiếm gần đúng tên sản phẩm
-[Start]
-   ↓
-[Người dùng nhập từ khóa tìm kiếm]
-   ↓
-[Sử dụng thuật toán tìm kiếm gần đúng (fuzzy search)]
-   ↓
-[Truy vấn sản phẩm có tên gần giống từ khóa]
-   ↓
-[Hiển thị kết quả phù hợp]
-   ↓
-[End]
+### 🔍 *Tìm kiếm gần đúng tên sản phẩm (Mermaid)*
+
+```mermaid
+flowchart TD
+    A[Start] --> B[Người dùng nhập từ khóa]
+    B --> C[Thực hiện fuzzy search]
+    C --> D[Truy vấn tên sản phẩm gần giống]
+    D --> E[Hiển thị kết quả]
+    E --> F[End]
+
 
 ### 1. Hiển thị đơn hàng theo khách hàng
 
