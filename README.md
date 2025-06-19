@@ -405,7 +405,7 @@ require __DIR__.'/auth.php';
 
 ## 📎 Liên kết dự án
 
-* GitHub Repo: \https://github.com/khanh21s/Fruit-Shop.git
+* GitHub Repo: https://github.com/khanh21s/Fruit-Shop.git
 * PDF ReadMe: \[link đến bản PDF]
 
 ---
