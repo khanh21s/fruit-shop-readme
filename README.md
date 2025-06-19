@@ -70,7 +70,7 @@ Chức năng của hệ thống:
 ---
 
 ## ⚖️ Sơ đồ thuật toán (Activity Diagram)
-### 1. Tìm kiếm gần đúng tên sản phẩm
+## 1. Tìm kiếm gần đúng tên sản phẩm
 🟢 Start ⬇️  
 👤 User nhập từ khóa vào thanh tìm kiếm ⬇️  
 🔍 Hệ thống thực hiện fuzzy search (LIKE, Scout, Fulltext...) ⬇️  
@@ -81,7 +81,7 @@ Chức năng của hệ thống:
 
 
 
-### 2. Hiển thị đơn hàng theo khách hàng
+## 2. Hiển thị đơn hàng theo khách hàng
 
 🟢 Start<br>
    ↓<br>
