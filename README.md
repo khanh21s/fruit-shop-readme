@@ -429,12 +429,6 @@ require __DIR__.'/auth.php';
 ## 📎 Liên kết dự án
 
 * GitHub Repo: https://github.com/khanh21s/Fruit-Shop.git
-* PDF ReadMe: \[link đến bản PDF]
 
 ---
 
-## 📅 Yêu cầu nộp
-
-* Nộp link `README.io` và GitHub repo trên Canvas
-* Xuất file PDF và nộp trên Canvas
-* In README và mang đi trong buổi demo cuối cùng
