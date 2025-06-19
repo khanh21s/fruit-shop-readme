@@ -64,8 +64,8 @@ Chức năng của hệ thống:
 ---
 
 ## 🧠 Sơ đồ Class Diagram
+![image](https://github.com/user-attachments/assets/8a233be5-312e-4af0-b1fa-6e648ede8480)
 
-(Chèn ảnh vào hoặc dùng draw\.io)
 
 ---
 
